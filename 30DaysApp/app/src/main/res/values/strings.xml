@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">30 days app</string>
+    <string name="expand_button_text">learn more about desserts</string>
+    <string name="day_text">Day %1$d</string>
+    <string name="tab">\u0009</string>
+
+    <integer name="day1">1</integer>
+    <string name="name1">Apple Pie</string>
+    <string name="goal1">A classic to start the month with warm flavors.</string>
+    <string name="description1">Apple pie combines a crispy crust with a sweet filling of apples cooked with cinnamon.</string>
+
+    <integer name="day2">2</integer>
+    <string name="name2">Tiramisu</string>
+    <string name="goal2">For lovers of coffee and mascarpone.</string>
+    <string name="description2">Italian layered dessert with coffee-soaked ladyfingers, mascarpone cream, and cocoa powder.</string>
+
+    <integer name="day3">3</integer>
+    <string name="name3">Caramel Flan</string>
+    <string name="goal3">Perfect for a light dessert.</string>
+    <string name="description3">Creamy egg custard with a liquid caramel topping.</string>
+
+    <integer name="day4">4</integer>
+    <string name="name4">Strawberry Cheesecake</string>
+    <string name="goal4">Ideal for those looking for something fresh.</string>
+    <string name="description4">Smooth cheesecake on a cookie base, topped with fresh strawberries.</string>
+
+    <integer name="day5">5</integer>
+    <string name="name5">Chocolate Brownies</string>
+    <string name="goal5">A pleasure for chocoholics.</string>
+    <string name="description5">Dense and moist chocolate squares, often with nuts.</string>
+
+    <integer name="day6">6</integer>
+    <string name="name6">Macarons</string>
+    <string name="goal6">Elegant and sophisticated.</string>
+    <string name="description6">French cookies crispy on the outside and soft on the inside, with a creamy filling.</string>
+
+    <integer name="day7">7</integer>
+    <string name="name7">Crème Brûlée</string>
+    <string name="goal7">To impress with a crispy touch.</string>
+    <string name="description7">Vanilla custard topped with a crispy caramel layer.</string>
+
+    <integer name="day8">8</integer>
+    <string name="name8">Panna Cotta</string>
+    <string name="goal8">Slightly sweet and refreshing.</string>
+    <string name="description8">Creamy Italian dessert, usually served with fruit sauce.</string>
+
+    <integer name="day9">9</integer>
+    <string name="name9">Tres Leches Cake</string>
+    <string name="goal9">An irresistible Latin American flavor.</string>
+    <string name="description9">Sponge cake soaked in three types of milk, topped with whipped cream.</string>
+
+    <integer name="day10">10</integer>
+    <string name="name10">Pistachio Gelato</string>
+    <string name="goal10">A creamier alternative to ice cream.</string>
+    <string name="description10">Dense and creamy Italian ice cream made with real pistachios.</string>
+
+    <integer name="day11">11</integer>
+    <string name="name11">Pavlova</string>
+    <string name="goal11">Light and full of fruit.</string>
+    <string name="description11">Meringue crispy on the outside and soft on the inside, topped with cream and fresh fruits.</string>
+
+    <integer name="day12">12</integer>
+    <string name="name12">Cannoli</string>
+    <string name="goal12">A sweet crunch.</string>
+    <string name="description12">Tubes of fried dough filled with a sweet ricotta mixture.</string>
+
+    <integer name="day13">13</integer>
+    <string name="name13">Churros with Chocolate</string>
+    <string name="goal13">Perfect for a cold afternoon.</string>
+    <string name="description13">Fried dough sprinkled with sugar and cinnamon, accompanied by hot chocolate.</string>
+
+    <integer name="day14">14</integer>
+    <string name="name14">Baklava</string>
+    <string name="goal14">An explosion of Middle Eastern flavors.</string>
+    <string name="description14">Layers of filo pastry with nuts and honey.</string>
+
+    <integer name="day15">15</integer>
+    <string name="name15">Chocolate Mousse</string>
+    <string name="goal15">For those who prefer smooth textures.</string>
+    <string name="description15">Fluffy chocolate dessert with a light and airy texture.</string>
+
+    <integer name="day16">16</integer>
+    <string name="name16">Profiteroles</string>
+    <string name="goal16">Small bites of happiness.</string>
+    <string name="description16">Small choux pastry balls filled with cream and covered in chocolate.</string>
+
+    <integer name="day17">17</integer>
+    <string name="name17">Carrot Cake</string>
+    <string name="goal17">Sweet and slightly spiced.</string>
+    <string name="description17">Moist carrot cake with nuts and a cream cheese frosting.</string>
+
+    <integer name="day18">18</integer>
+    <string name="name18">Crêpes Suzette</string>
+    <string name="goal18">A French touch for breakfast or dessert.</string>
+    <string name="description18">Thin crepes bathed in a sauce of butter, sugar, and orange liqueur.</string>
+
+    <integer name="day19">19</integer>
+    <string name="name19">Fruit Jelly</string>
+    <string name="goal19">Light and colorful.</string>
+    <string name="description19">Jelly dessert with pieces of fresh fruit.</string>
+
+    <integer name="day20">20</integer>
+    <string name="name20">Eclairs</string>
+    <string name="goal20">For a French pastry craving.</string>
+    <string name="description20">Choux pastry filled with cream and covered in chocolate frosting.</string>
+
+    <integer name="day21">21</integer>
+    <string name="name21">Lemon Tart</string>
+    <string name="goal21">Refreshing and citrusy.</string>
+    <string name="description21">Crispy pastry base with a lemon cream filling.</string>
+
+    <integer name="day22">22</integer>
+    <string name="name22">Chocolate Soufflé</string>
+    <string name="goal22">Surprises with its airy texture.</string>
+    <string name="description22">Hot chocolate dessert that rises when baked.</string>
+
+    <integer name="day23">23</integer>
+    <string name="name23">Oatmeal Raisin Cookies</string>
+    <string name="goal23">A healthy touch.</string>
+    <string name="description23">Soft and chewy cookies with oats and raisins.</string>
+
+    <integer name="day24">24</integer>
+    <string name="name24">Vanilla Ice Cream</string>
+    <string name="goal24">Classic and versatile.</string>
+    <string name="description24">Creamy vanilla ice cream, perfect alone or accompanied.</string>
+
+    <integer name="day25">25</integer>
+    <string name="name25">Matcha Tea Tiramisu</string>
+    <string name="goal25">A modern twist on the classic.</string>
+    <string name="description25">Ladyfingers with matcha green tea and mascarpone cream.</string>
+
+    <integer name="day26">26</integer>
+    <string name="name26">Chocolate and Raspberry Cake</string>
+    <string name="goal26">Rich and fruity.</string>
+    <string name="description26">Dark chocolate cake with fresh raspberries.</string>
+
+    <integer name="day27">27</integer>
+    <string name="name27">Fruit Trifle</string>
+    <string name="goal27">Layers of colors and flavors.</string>
+    <string name="description27">Layers of sponge cake, cream, jelly, and fruits.</string>
+
+    <integer name="day28">28</integer>
+    <string name="name28">Chia Pudding</string>
+    <string name="goal28">Healthy and delicious.</string>
+    <string name="description28">Chia seeds in plant-based milk, sweetened and with fruits.</string>
+
+    <integer name="day29">29</integer>
+    <string name="name29">Alfajores</string>
+    <string name="goal29">A sweet South American bite.</string>
+    <string name="description29">Cornstarch cookies filled with dulce de leche and sprinkled with coconut.</string>
+
+    <integer name="day30">30</integer>
+    <string name="name30">Mango Mousse</string>
+    <string name="goal30">Sweet and tropical.</string>
+    <string name="description30">Smooth mango mousse with a touch of lime.</string>
+</resources>

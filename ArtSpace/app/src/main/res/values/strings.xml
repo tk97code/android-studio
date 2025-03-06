@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="first">Ship Ocean</string>
+    <string name="first_year">2021</string>
+    <string name="second">Sea with stone</string>
+    <string name="second_year">2019</string>
+    <string name="third">Blue Car</string>
+    <string name="third_year">2011</string>
+    <string name="fourth">Dark city</string>
+    <string name="fourth_year">2016</string>
+</resources>

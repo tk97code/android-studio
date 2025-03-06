@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_small_medium">10dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="image_height">300dp</dimen>
+    <dimen name="rounded_corner_small">8dp</dimen>
+    <dimen name="rounded_corner_medium">16dp</dimen>
+    <dimen name="default_elevation">6dp</dimen>
+    <dimen name="surface_tonal_elevation">20dp</dimen>
+    <dimen name="surface_shadow_elevation">0.5dp</dimen>
+</resources>
